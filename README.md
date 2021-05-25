@@ -7,3 +7,5 @@ Parking sensor system uses the following peripherals:
 3.	2 Buttons Placed on the TM4C123G Board to be able to switch between states.
 4.	HC-SR04 Ultrasonic Sensor to measure distance.
 5.	Stepper Motor to demonstrate rotational motion.
+
+Deeper explanations on the project is given in ProjectReport.pdf
